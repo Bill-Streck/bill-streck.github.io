@@ -1,3 +1,0 @@
-# PLACEHOLDER...
-
-If this file exists, the website has not yet been set up.
